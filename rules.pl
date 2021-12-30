@@ -1,5 +1,4 @@
 %batuhan tongarlak 
-%2019400270
 location(T1,R,C) :-
 	T0  is T1 - 1,
 	RN  is R - 1,
